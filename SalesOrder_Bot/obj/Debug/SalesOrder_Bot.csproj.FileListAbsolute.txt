@@ -1,0 +1,129 @@
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Bot Application.dll.config
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Bot Application.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Bot Application.pdb
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Autofac.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Chronic.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.Bot.Builder.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.Bot.Connector.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Newtonsoft.Json.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.Net.Http.Formatting.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.Web.Http.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.Web.Http.WebHost.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Autofac.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.Bot.Builder.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.Bot.Connector.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\Newtonsoft.Json.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.Net.Http.Formatting.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.Web.Http.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.Web.Http.WebHost.xml
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\obj\Debug\SalesOrder_Bot.csprojResolveAssemblyReference.cache
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\obj\Debug\Bot Application.dll
+c:\users\thambiaiyah.yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\obj\Debug\Bot Application.pdb
+C:\Users\Thambiaiyah.Yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.Xml.ReaderWriter.dll
+C:\Users\Thambiaiyah.Yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\bin\System.Xml.XmlDocument.dll
+C:\Users\Thambiaiyah.Yadushka\documents\visual studio 2015\Projects\SalesOrder_Bot\SalesOrder_Bot\obj\Debug\SalesOrder_Bot.csproj.ResolveComReference.cache
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Bot Application.dll.config
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Bot Application.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Bot Application.pdb
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Autofac.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Chronic.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Newtonsoft.Json.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Web.Http.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Xml.ReaderWriter.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Xml.XmlDocument.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Autofac.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Newtonsoft.Json.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Web.Http.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\obj\Debug\SalesOrder_Bot.csprojResolveAssemblyReference.cache
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\obj\Debug\SalesOrder_Bot.csproj.ResolveComReference.cache
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\obj\Debug\Bot Application.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\SalesOrder_Bot_UsingCards-20180108T075409Z-001\SalesOrder_Bot_UsingCards\SalesOrder_Bot\obj\Debug\Bot Application.pdb
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Bot Application.dll.config
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Bot Application.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Bot Application.pdb
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Autofac.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Chronic.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Builder.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Connector.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Newtonsoft.Json.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Net.Http.Formatting.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Web.Http.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Web.Http.WebHost.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Xml.ReaderWriter.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Xml.XmlDocument.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Autofac.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Builder.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.Bot.Connector.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\Newtonsoft.Json.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Net.Http.Formatting.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Web.Http.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\System.Web.Http.WebHost.xml
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\obj\Debug\SalesOrder_Bot.csprojResolveAssemblyReference.cache
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\obj\Debug\SalesOrder_Bot.csproj.ResolveComReference.cache
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\obj\Debug\Bot Application.dll
+C:\Users\Thambiaiyah.Yadushka\Downloads\My_Pro_Drive\SalesOrder_Bot_UsingCards\SalesOrder_Bot_UsingCards\SalesOrder_Bot\obj\Debug\Bot Application.pdb
